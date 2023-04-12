@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Applications\上一页.png" />
+    <None Remove="Applications\上一页_分页控件操作_jurassic.png" />
+    <None Remove="Applications\下一页.png" />
+    <None Remove="Applications\下一页_分页控件操作_jurassic.png" />
+    <None Remove="Applications\尾页末页最后一页_分页控件操作_jurassic.png" />
+    <None Remove="Applications\最后一页.png" />
+    <None Remove="Applications\第一页.png" />
+    <None Remove="Applications\首页第一页_分页控件操作_jurassic.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="MahApps.Metro" Version="2.4.9" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Framework\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Applications\上一页.png" />
+    <Resource Include="Applications\上一页_分页控件操作_jurassic.png" />
+    <Resource Include="Applications\下一页.png" />
+    <Resource Include="Applications\下一页_分页控件操作_jurassic.png" />
+    <Resource Include="Applications\尾页末页最后一页_分页控件操作_jurassic.png" />
+    <Resource Include="Applications\最后一页.png" />
+    <Resource Include="Applications\第一页.png" />
+    <Resource Include="Applications\首页第一页_分页控件操作_jurassic.png" />
+  </ItemGroup>
+
+</Project>

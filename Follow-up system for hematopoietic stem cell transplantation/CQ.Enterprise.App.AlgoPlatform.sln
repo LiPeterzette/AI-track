@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQ.Enterprise.App.AlgoPlatform", "CQ.Enterprise.App.AlgoPlatform.csproj", "{4BE35C4A-9394-4E86-B59B-E27BB308C15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE35C4A-9394-4E86-B59B-E27BB308C15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE35C4A-9394-4E86-B59B-E27BB308C15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE35C4A-9394-4E86-B59B-E27BB308C15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE35C4A-9394-4E86-B59B-E27BB308C15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717575D7-6D02-4D80-9949-A2EAE7502CA2}
+	EndGlobalSection
+EndGlobal
