@@ -1,6 +1,6 @@
 # AI-track
 
-AI Research Track is a project that aims to explore the frontier problems and applications in the field of artificial intelligence. It provides some implementations and tests of deep learning and machine learning algorithms.
+All projects in this repository are those the owner has previously worked on or participated in, with some associated articles already published. The repository aims to explore frontier problems and applications in artificial intelligence, providing implementations and tests of various deep learning and machine learning algorithms.
 
 ## Installation
 
